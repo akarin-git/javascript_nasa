@@ -9,7 +9,7 @@
   https://apod.nasa.gov/apod/astropix.html
 
 # nasa neo API
-   https://akarin-git.github.io/space_nasa_api/
+   https://akarin-git.github.io/space_nasa_api/.
 - Nasa API(Neo - Lookup)を使用し、
   Amorの軌道要素を取得。
   https://api.nasa.gov/
