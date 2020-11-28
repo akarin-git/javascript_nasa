@@ -20,7 +20,7 @@ p.today {
   width: 100%;
 }
 
-img{
+img {
   width: 100%;
 }
 
@@ -40,7 +40,7 @@ img{
   display: flex;
   justify-content: center;
   align-items: center;
-  
+
 }
 
 .container {
@@ -69,4 +69,12 @@ img{
 .today {
   font-size: 1.3rem;
   margin-bottom: 3rem;
+}
+
+.nasa {
+  
+  width: 50px;
+  height: 20px;
+  line-height: 20px;
+  
 }
